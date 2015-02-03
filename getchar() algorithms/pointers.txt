@@ -1,0 +1,5 @@
+ar is 0x7fff98d8a4f0
+The following addresses are 0x7fff98d8a52c  0x7fff98d8a528 0x7fff98d8a4e8
+s1 is 0x7fff98d8a4e0
+The following addresses are 0x7ff98d8a4ff1 0x7ff98d8a4ff0 0x7ff98d8a4fe0 
+The following strings are abcdefgh 1234z67 d

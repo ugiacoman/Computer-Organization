@@ -1,0 +1,6 @@
+1) num1 = 237     num2 = 128
+2) num1 = -19     num2 = -128
+3) 157 = 0x009D     -157 = 0xFF63
+4) 10001001 = 137 = 0x89
+5) 35 = 00100011 = 0x23
+6) -122 + -111 = 00010111 There is overflow so sum would need to be represented in 9 bytes.  111 + 122 = 11101001  There is overflow so sum would need to be represented in 9 bytes. 111-122 = 11110101 There is no overflow. 
